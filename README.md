@@ -1,7 +1,6 @@
 # San Francisco City Employees' Salaries Analysis
 
 ## Overview
-Using the STAR methodology (Situation, Task, Action, Results), this repository provides a comprehensive analysis of San Francisco city employees' salaries.
 
 - **Situation:** The dataset, "Employee_Compensation.csv," is a rich source of information on San Francisco municipal employees' salaries.
 - **Task:** Tasks involve data cleaning, exploration, and visualization to answer specific research questions.
