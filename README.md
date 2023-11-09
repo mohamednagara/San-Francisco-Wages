@@ -47,60 +47,60 @@ Statistical analysis and data type understanding facilitate the next stage of an
 
 ## Analysis and Visualizations
 
-- ### Evolution of Salaries Since 2013
+## Evolution of Salaries Since 2013
 
-#### Situation
+- ### Situation
 Analyzing trends in average salaries since 2013.
 
-#### Task
+- ### Task
 Calculating average salaries per year and creating a trend chart.
 
-#### Action
+- ### Action
 The code filters data, calculates average salaries, and generates a trend chart.
 
-#### Results
+- ### Results
 The chart reveals a general growth in salaries, increasing from around $70,000 to $105,000 from 2014 to 2022.
 
-### Distribution of Salaries Among City Employees
+## Distribution of Salaries Among City Employees
 
-#### Situation
+- ### Situation
 Understanding the distribution of salaries among employees.
 
-#### Task
+- ### Task
 Creating a histogram to visualize the distribution.
 
-#### Action
+- ### Action
 Seaborn is used to create a histogram, revealing a left-skewed distribution.
 
-#### Results
+- ### Results
 The major concentration of salaries is around $60,000, but extreme values reach up to $380,000.
 
-### Evolution of Average Salaries and Benefits
+## Evolution of Average Salaries and Benefits
 
-#### Situation
+- ### Situation
 Analyzing the evolution of average salaries and benefits since 2013.
 
-#### Task
+- ### Task
 Calculating averages and percentage changes relative to the reference year.
 
-#### Action
+- ### Action
 The code calculates averages and generates a chart illustrating the evolution of salaries and benefits.
 
-#### Results
+- ### Results
 Average salaries increase by 36.05%, with negative growth in 2014 and 2015, followed by exponential growth of 40 percentage points between 2014 and 2022. Benefits experience a growth of +38%.
 
-### Salary Variations Based on Job Categories
+## Salary Variations Based on Job Categories
 
-#### Situation
+- ### Situation
 Exploring salary variations among job categories.
 
-#### Task
+- ### Task
 Calculating average salaries for each job family and creating a bar chart.
 
-#### Action
+- ### Action
 The code calculates average salaries and generates a bar chart.
 
-#### Results
+- ### Results
 The highest-paying job families are medical and dental, while public service aides are the lowest-paid, with just over $25,000 annually.
 
 ## Conclusion
