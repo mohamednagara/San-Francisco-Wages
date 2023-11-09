@@ -5,49 +5,49 @@ This repository aims to delve into the salaries of San Francisco city employees.
 
 ## STAR Methodology
 
-### Situation
+- ### Situation
 The dataset, named "Employee_Compensation.csv," reveals crucial information about the salaries of municipal employees in San Francisco.
 
-### Task
+- ### Task
 Tasks include data cleaning, in-depth exploration, and the creation of visualizations to answer research questions.
 
-### Action
+- ### Action
 The provided Python code, utilizing libraries such as Pandas, Matplotlib, and Seaborn, conducts a comprehensive analysis, from data cleaning to graphical representation.
 
-### Results
+- ### Results
 The results, presented through informative charts, offer an in-depth understanding of salary trends and disparities within the municipal workforce.
 
 ## Data Cleaning
 
-### Situation
+- ### Situation
 The dataset contains 22 columns with various data types.
 
-### Task
+- ### Task
 Actions taken include handling missing values, selecting relevant columns, and converting data types.
 
-### Action
+- ### Action
 The code demonstrates the cleaning process, ensuring data quality for precise analysis.
 
-### Results
+- ### Results
 The dataset is now free of NaN values, with selected columns converted to appropriate data types.
 
 ## Data Description
 
-### Situation
+- ### Situation
 A thorough understanding of the data is crucial for relevant analysis.
 
-### Task
+- ### Task
 Descriptive statistics and data type analysis are performed.
 
-### Action
+- ### Action
 The code presents statistical summaries, data type analyses, and the conversion of specific columns.
 
-### Results
+- ### Results
 Statistical analysis and data type understanding facilitate the next stage of analysis.
 
 ## Analysis and Visualizations
 
-### Evolution of Salaries Since 2013
+- ### Evolution of Salaries Since 2013
 
 #### Situation
 Analyzing trends in average salaries since 2013.
